@@ -13,20 +13,20 @@
 
 # Tasks Performed
 ### •Filtered out rows from dataframe.
-••Used pandas.Series.value_counts() method to display occurance of each category in particular columns.  
+••Used pandas.Series.value_counts() method to display occurrence of each category in particular columns.  
 ••Used Boolean conditionals to select and filter.
 ### •Explored main dishes at Thanksgiving dinner.
-••Used pandas.Series.value_counts() method to display occurance of each category in particular columns.  
+••Used pandas.Series.value_counts() method to display occurrence of each category in particular columns.  
 ••Used Boolean conditionals to select and filter.
 ### •Explored dessert dishes at Thanksgiving dinner.
 ••Generated Boolean series to select null values in pies columns.  
-••Used pandas.Series.value_counts() method to display whether or not pies were served and if so, what type of pie.
+••Used pandas.Series.value_counts() method to display whether or not pies were served and if so, what type of pies.
 ### •Converted Age column to integers.
 ••Created function to convert a string to an appropriate integer. 
 ### •Converted Income column to integers.
 ••Created function to convert a string to an appropriate integer income value.
 ### •Correalated travel distance & Income.
-••Filtered dataframe according to income; under and over 150000. 
-••Used pandas.Series.value_counts() method to display distance people in these two categories are willing to travel.
+••Filtered dataframe according to income; under and over 150000.  
+••Used pandas.Series.value_counts() method to display distances people in these two categories are willing to travel.
 ### •Linking Friendsgiving & Age
-••Called pivot_table() method to disover any significant patterns between age and people who spend Thanksgiving with friends.
+••Called pivot_table() method to discover any significant patterns between age and people who spend Thanksgiving with friends.
