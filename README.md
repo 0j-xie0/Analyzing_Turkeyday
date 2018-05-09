@@ -25,7 +25,7 @@
 ••Created function to convert a string to an appropriate integer. 
 ### •Converted Income column to integers.
 ••Created function to convert a string to an appropriate integer income value.
-### •Correalated travel distance & Income.
+### •Correalated travel distance & income.
 ••Filtered dataframe according to income; under and over 150000.  
 ••Used pandas.Series.value_counts() method to display distances people in these two categories are willing to travel.
 ### •Linking Friendsgiving & Age
