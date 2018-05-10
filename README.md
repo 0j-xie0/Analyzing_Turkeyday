@@ -3,8 +3,8 @@
 
 # Installation
 •Clone this repo to your computer.  
-•OPTIONAL: the original dataset can be found [here](https://github.com/fivethirtyeight/data/tree/master/thanksgiving-2015)  
-•Install the requirements using pip install -r requirements.txt  
+•OPTIONAL: the original dataset can be found [here.](https://github.com/fivethirtyeight/data/tree/master/thanksgiving-2015)  
+•Install the requirements using pip install -r requirements.txt.  
 •Make sure you use Python 3.  
 •You may want to install [Jupyter](http://jupyter.org/install) to run the ipynb.
 
