@@ -30,3 +30,7 @@
 ••Used pandas.Series.value_counts() method to display distances people in these two categories are willing to travel.
 ### •Linking Friendsgiving & Age
 ••Called pivot_table() method to discover any significant patterns between age and people who spend Thanksgiving with friends.
+
+# Observations
+### •The analysis on demographics according to income reveals that people with higher income tend to have Thanksgiving at home compared to people with lower income. A possible explanation is that people with higher income usually have their own homes whereas people with lower income might be students who go home for Thanksgiving.
+### •This dataset also reveals that younger people are more likely to attend Friendsgiving and meet up with friends on Thanksgiving night.
